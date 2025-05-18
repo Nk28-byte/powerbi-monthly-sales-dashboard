@@ -28,6 +28,6 @@ This project is a monthly sales dashboard created using Power BI. It displays sa
 
 ## 🙋‍♀️ Author
 
-**[Aapka Naam]**  
+**Nitesh Badwaiya**  
 Aspiring Data Analyst | Power BI • Excel • SQL  
-[LinkedIn Profile](https://linkedin.com/in/yourname)
+[LinkedIn Profile](https://www.linkedin.com/in/nitesh-badwaiya/)
